@@ -15,3 +15,7 @@ Key Factors of to consider:
 - **Security**    : How to securily transfer and store the data, secure the system using strict firewall methods and authentication and access
 - **Deployment**  : Deployment of various components across the system
 - **Technology Stack** : Select the proper technology and tools
+
+1] **Performance**
+   
+
