@@ -6,6 +6,7 @@ For example of Application Design :
           
 We need to consider key factors of NFR and system requirements
 Key Factors of to consider:
+
  **Performance** : TPS requriement to be fulfilled. For example, 90 trades per second
  **Scalability** : System should be able to handle huge number of requests and scale up and down automatically based on the load
  **Reliability** : High availability of the system even if few services (like nodes) of the system goes unavailable
